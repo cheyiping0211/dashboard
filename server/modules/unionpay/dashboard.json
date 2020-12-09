@@ -1,0 +1,21 @@
+{
+	"moduleId": "unionpay",
+	"chartList": [
+		{
+			"id": 1,
+			"domId": "unionpay_one",
+			"type": "area",
+			"title": "渐变堆叠面积图",
+			"lastX": 350,
+			"lastY": 225
+		},
+		{
+			"id": 2,
+			"domId": "unionpay_two",
+			"type": "area",
+			"title": "渐变堆叠面积图2",
+			"lastX": 350,
+			"lastY": 225
+		}
+	]
+}
